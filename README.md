@@ -4,11 +4,14 @@ Hi 👋 My name is Oleksii
 Frontend Developer
 ------------------
 
-*   🌍  I'm based in Kyiv, Ukraine
-*   🖥️  See my portfolio at [GitHub](http://github.com/altosnop?tab=repositories)
-*   ✉️  You can contact me at [oleksii.larchen@gmail.com](mailto:oleksii.larchen@gmail.com)
-*   🚀  I'm currently working on [OneTimePassword Project](http://github.com/altosnop/otp-app-dev)
-*   🧠  I'm learning JavaScript, React, Redux### Skills 
+* 🌍  I'm based in Kyiv, Ukraine
+* 🖥️  See my portfolio at [GitHub](http://github.com/altosnop?tab=repositories)
+* ✉️  You can contact me at [oleksii.larchen@gmail.com](mailto:oleksii.larchen@gmail.com)
+* 🚀  I'm currently working on [OneTimePassword Project](http://github.com/altosnop/otp-app-dev)
+* 🧠  I'm learning JavaScript, React, Redux
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,14 +25,7 @@ Frontend Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/430393375032868866" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/altosnop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/oleksii-larchenko-97a7211a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/430393375032868866" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/altosnop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleksii-larchenko-97a7211a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
